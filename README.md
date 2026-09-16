@@ -5,4 +5,4 @@ I enjoy building full-stack applications and solving real-world problems through
 
 Currently working with TypeScript, React, Next.js, PostgreSQL and Docker, and exploring AI-assisted and agentic development workflows.
 
-## Featured projects: Cafecitos · Financial Reconciliation Engine
+Featured projects: Cafecitos · Financial Reconciliation Engine
